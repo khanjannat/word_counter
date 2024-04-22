@@ -1,6 +1,3 @@
-#! /usr/in/env node
-// this line is called a shebhang, it tells the OS to run it with nodejs
-
 // import the 'inquirer' module, which is a command line interface for node.js
 import inquirer from "inquirer";
 // Declare a constant 'answer' and assign it to the result of inquirer.prompt function
